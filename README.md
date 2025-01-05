@@ -3,15 +3,15 @@
 
 -  [Active Directory Home Lab](https://github.com/ikorley/Active-Directory-Lab)
 
-<h2>📺- Certifications </h2>
+<h2>📖- Certifications </h2>
 
 - [Blue Team Level One (BTL1)](https://www.credly.com/badges/a26af275-1e64-4303-a340-1deefe9c6ae1/public_url)
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/0122493c-c3e6-4ab6-895a-435f4779884a/public_url)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Tutorial Active Directory Home Lab](https://youtu.be/dyM6UGGekhI)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -22,18 +22,3 @@
 
 [youtube]: https://www.youtube.com/@AwareSec1
 [linkedin]: https://www.linkedin.com/in/isaac-korley-91013a183/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
