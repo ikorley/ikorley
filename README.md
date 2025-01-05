@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isaac! <br/><a href="https://www.linkedin.com/in/joshmadakor/"> Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Isaac! <br/><a href="https://www.linkedin.com/in/isaac-korley-91013a183/"> Aspiring Cybersecurity Professional</a>
 <h2>👨‍💻Cybersecurtiy Projects:</h2>
 
 -  [Active Directory Home Lab](https://github.com/ikorley/Active-Directory-Lab)
