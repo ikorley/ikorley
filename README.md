@@ -2,7 +2,7 @@
 <h2>👨‍💻Cybersecurtiy Projects:</h2>
 
 -  [Active Directory Home Lab](https://github.com/ikorley/Active-Directory-Lab)
--  [SIEM Tutorial Home Lab](https://github.com/ikorley/Active-Directory-Lab)
+-  [SIEM in Azure Home Lab](https://github.com/ikorley/Active-Directory-Lab)
 
 <h2>📖- Certifications </h2>
 
