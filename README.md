@@ -1,8 +1,9 @@
 <h1>Hi, I'm Isaac! <br/><a href="https://www.linkedin.com/in/isaac-korley-91013a183/"> Aspiring Cybersecurity Professional</a>
 <h2>👨‍💻Cybersecurtiy Projects:</h2>
 
+-  [SIEM in Azure Home Lab](https://github.com/ikorley/SIEM-Home-lab-in-Azure)
 -  [Active Directory Home Lab](https://github.com/ikorley/Active-Directory-Lab)
--  [SIEM in Azure Home Lab](https://github.com/ikorley/Active-Directory-Lab)
+
 
 <h2>📖- Certifications </h2>
 
